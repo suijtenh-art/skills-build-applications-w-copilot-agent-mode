@@ -5,6 +5,7 @@ venv
 
 # octofit tracker app
 # octfit-tracker
+octofit-tracker/backend/dist/
 
 # React node_modules
 node_modules
